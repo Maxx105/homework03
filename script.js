@@ -4,7 +4,7 @@ var generateBtn = document.querySelector("#generate");
 function generatePassword() {
 
 //This sets the length of the password
-var numberChar = parseInt(prompt("Choose password length (must be between 8 and 128 characters)"));
+var numberChar = parseInt(prompt("Choose password length (must be between 8 and 128)"));
 
 //These for confirm functions determine which characters the password can have.
 var lowerCase = confirm("Do you want lowercase letters?");
