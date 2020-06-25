@@ -33,6 +33,10 @@ var passwordArray = ""
     var passwordArray = (passwordArray + charArray.substring(62,charArray.length));
   }
 
+  if (lowerCase === false && upperCase === false && numeric === false && specialChar === false){
+    alert("Must have at least one criterion!");
+  }
+
   if (numberChar < 8 || numberChar > 128) {
     alert("Must be between 8 and 128 characters!");
   }
