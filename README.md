@@ -12,6 +12,9 @@ https://maxx105.github.io/password_generator/
 # Technologies:
 The front end was created with only HTML and CSS and I made the script with Javascript.
 
+# Purpose:
+This application allows the user to generate a completely random password with any type of characters they choose. This would be useful in a scenario where someone needs a very secure password.
+
 # How to Use:
 When the user clicks the Generate Password button, it then prompts them with 5 criteria for the generated password:
 
