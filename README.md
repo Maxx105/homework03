@@ -10,7 +10,7 @@ https://maxx105.github.io/password_generator/
 ![deployed application](assets/deployed_app.JPG)
 
 # Technologies:
-The front end was was created with only HTML and CSS and I made the script with Javascript.
+The front end was created with only HTML and CSS and I made the script with Javascript.
 
 # How to Use:
 When the user clicks the Generate Password button, it then prompts them with 5 criteria for the generated password:
